@@ -1,9 +1,0 @@
-list = []
-while True:
-	a = raw_input()
-	list.append()
-	if a == 'EOF':
-
-		break;
-		
-print list
