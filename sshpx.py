@@ -1,3 +1,5 @@
+#connect to SSH by python pexpect
+
 from pexpect import pxssh
 import getpass
 s = pxssh.pxssh()
